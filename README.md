@@ -1251,6 +1251,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shreyash Kumar </b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ARUSHIGARG211004/Arushi.git">
+                    <img src="https://avatars.githubusercontent.com/u/121043298?v=4" width="100px;" alt="Arushi Garg"/>
+                    <br />
+                    <sub><b>Arushi Garg </b></sub>
+                </a>
+            </td>
         </tr>
+        
+        
     </tbody>
 </table>
